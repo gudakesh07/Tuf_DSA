@@ -1,0 +1,9 @@
+# Compiled binaries
+*.out
+basics
+
+# VS Code
+.vscode/
+
+# CPH extension
+.cph/
